@@ -1,0 +1,2385 @@
+None
+
+Now testing custom.EquivTest2a
+[Input 1 at (15, 21, 37, 59, 445540)]
+small_flight {294 , 2154 , 0 , }
+small_flight {294 , 2154 , 1 , }
+small_flight {294 , 2154 , 2 , }
+small_flight {294 , 2154 , 3 , }
+small_flight {294 , 2154 , 4 , }
+small_flight {294 , 2154 , 5 , }
+small_flight {294 , 2154 , 6 , }
+small_flight {294 , 2154 , 7 , }
+small_flight {294 , 2154 , 8 , }
+small_flight {294 , 2154 , 9 , }
+small_flight {294 , 2154 , 10 , }
+small_flight {294 , 2154 , 11 , }
+small_flight {294 , 2154 , 12 , }
+small_flight {294 , 2154 , 13 , }
+small_flight {294 , 2154 , 14 , }
+small_flight {294 , 2154 , 15 , }
+small_flight {294 , 2154 , 16 , }
+small_flight {294 , 2154 , 17 , }
+small_flight {294 , 2154 , 18 , }
+small_flight {294 , 2154 , 19 , }
+small_flight {294 , 2154 , 20 , }
+small_flight {294 , 2154 , 21 , }
+small_flight {294 , 2154 , 22 , }
+small_flight {294 , 2154 , 23 , }
+small_flight {294 , 2154 , 24 , }
+small_flight {294 , 2154 , 25 , }
+small_flight {294 , 2154 , 26 , }
+small_flight {294 , 2154 , 27 , }
+small_flight {294 , 2154 , 28 , }
+small_flight {294 , 2154 , 29 , }
+small_flight {294 , 2154 , 30 , }
+small_flight {294 , 2154 , 31 , }
+small_flight {294 , 2154 , 32 , }
+small_flight {294 , 2154 , 33 , }
+small_flight {294 , 2154 , 34 , }
+small_flight {294 , 2154 , 35 , }
+small_flight {294 , 2154 , 36 , }
+small_flight {294 , 2154 , 37 , }
+small_flight {294 , 2154 , 38 , }
+small_flight {294 , 2154 , 39 , }
+small_flight {294 , 2154 , 40 , }
+small_flight {294 , 2154 , 41 , }
+small_flight {294 , 2154 , 42 , }
+small_flight {294 , 2154 , 43 , }
+small_flight {294 , 2154 , 44 , }
+small_flight {294 , 2154 , 45 , }
+small_flight {294 , 2154 , 46 , }
+small_flight {294 , 2154 , 47 , }
+small_flight {294 , 2154 , 48 , }
+small_flight {294 , 2154 , 49 , }
+----------
+----------
+branch 1
+true
+[Input 2 at (15, 21, 38, 1, 432895)]
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , 0 , }
+----------
+{ 0, 2154,  }
+----------
+{ 0, 2154,  }
+branch 1
+true
+[Input 3 at (15, 21, 38, 2, 415385)]
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , 0 , }
+----------
+{ 0, 2011,  }
+----------
+branch 2
+true
+[Input 4 at (15, 21, 38, 4, 659293)]
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , 0 , }
+----------
+----------
+branch 1
+true
+[Input 5 at (15, 21, 38, 6, 743001)]
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , 0 , }
+small_flight {0 , 0 , 0 , }
+----------
+----------
+branch 1
+true
+[Input 6 at (15, 21, 38, 8, 797674)]
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , 0 , }
+small_flight {0 , 0 , 1 , }
+----------
+----------
+branch 1
+true
+[Input 7 at (15, 21, 38, 10, 862693)]
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 2011 , }
+small_flight {0 , 2011 , 1 , }
+----------
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+----------
+branch 2
+true
+[Input 8 at (15, 21, 38, 11, 639405)]
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , 0 , }
+small_flight {0 , 0 , 1 , }
+----------
+----------
+branch 1
+true
+[Input 9 at (15, 21, 38, 13, 732791)]
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , 0 , }
+small_flight {0 , 0 , 0 , }
+small_flight {0 , 0 , 1 , }
+----------
+----------
+branch 1
+true
+[Input 10 at (15, 21, 38, 15, 781218)]
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , 0 , }
+small_flight {0 , 0 , 0 , }
+small_flight {0 , 0 , 0 , }
+----------
+----------
+branch 1
+true
+[Input 11 at (15, 21, 38, 17, 925266)]
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , 0 , }
+small_flight {0 , 0 , 1 , }
+small_flight {0 , 0 , 0 , }
+----------
+----------
+branch 1
+true
+[Input 12 at (15, 21, 38, 19, 978784)]
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , 0 , }
+small_flight {0 , 0 , 1 , }
+small_flight {0 , 0 , 1 , }
+----------
+----------
+branch 1
+true
+[Input 13 at (15, 21, 38, 22, 35827)]
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 2011 , }
+small_flight {0 , 2011 , 1 , }
+small_flight {0 , 2011 , 1 , }
+----------
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+----------
+branch 2
+true
+[Input 14 at (15, 21, 38, 22, 828767)]
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , 0 , }
+small_flight {0 , 0 , 1 , }
+small_flight {0 , 0 , 1 , }
+----------
+----------
+branch 1
+true
+[Input 15 at (15, 21, 38, 24, 912631)]
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , 0 , }
+small_flight {0 , 0 , 0 , }
+small_flight {0 , 0 , 1 , }
+small_flight {0 , 0 , 1 , }
+----------
+----------
+branch 1
+true
+[Input 16 at (15, 21, 38, 26, 957834)]
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , 0 , }
+small_flight {0 , 0 , 0 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , 0 , }
+----------
+----------
+branch 1
+true
+[Input 17 at (15, 21, 38, 29, 158183)]
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , 0 , }
+small_flight {0 , 0 , 0 , }
+small_flight {0 , 0 , 0 , }
+small_flight {0 , 0 , 0 , }
+----------
+----------
+branch 1
+true
+[Input 18 at (15, 21, 38, 31, 333820)]
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , 0 , }
+small_flight {0 , 0 , 0 , }
+small_flight {0 , 0 , 0 , }
+small_flight {0 , 0 , 1 , }
+----------
+----------
+branch 1
+true
+[Input 19 at (15, 21, 38, 33, 446388)]
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , 0 , }
+small_flight {0 , 0 , 1 , }
+small_flight {0 , 0 , 0 , }
+small_flight {0 , 0 , 1 , }
+----------
+----------
+branch 1
+true
+[Input 20 at (15, 21, 38, 35, 525327)]
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , 0 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , 0 , }
+small_flight {0 , 0 , 0 , }
+----------
+----------
+branch 1
+small_flight {673 , 2421 , 0 , }
+small_flight {673 , 2421 , 1 , }
+small_flight {673 , 2421 , 2 , }
+small_flight {673 , 2421 , 3 , }
+small_flight {673 , 2421 , 4 , }
+small_flight {673 , 2421 , 5 , }
+small_flight {673 , 2421 , 6 , }
+small_flight {673 , 2421 , 7 , }
+small_flight {673 , 2421 , 8 , }
+small_flight {673 , 2421 , 9 , }
+small_flight {673 , 2421 , 10 , }
+small_flight {673 , 2421 , 11 , }
+small_flight {673 , 2421 , 12 , }
+small_flight {673 , 2421 , 13 , }
+small_flight {673 , 2421 , 14 , }
+small_flight {673 , 2421 , 15 , }
+small_flight {673 , 2421 , 16 , }
+small_flight {673 , 2421 , 17 , }
+small_flight {673 , 2421 , 18 , }
+small_flight {673 , 2421 , 19 , }
+small_flight {673 , 2421 , 20 , }
+small_flight {673 , 2421 , 21 , }
+small_flight {673 , 2421 , 22 , }
+small_flight {673 , 2421 , 23 , }
+small_flight {673 , 2421 , 24 , }
+small_flight {673 , 2421 , 25 , }
+small_flight {673 , 2421 , 26 , }
+small_flight {673 , 2421 , 27 , }
+small_flight {673 , 2421 , 28 , }
+small_flight {673 , 2421 , 29 , }
+small_flight {673 , 2421 , 30 , }
+small_flight {673 , 2421 , 31 , }
+small_flight {673 , 2421 , 32 , }
+small_flight {673 , 2421 , 33 , }
+small_flight {673 , 2421 , 34 , }
+small_flight {673 , 2421 , 35 , }
+small_flight {673 , 2421 , 36 , }
+small_flight {673 , 2421 , 37 , }
+small_flight {673 , 2421 , 38 , }
+small_flight {673 , 2421 , 39 , }
+small_flight {673 , 2421 , 40 , }
+small_flight {673 , 2421 , 41 , }
+small_flight {673 , 2421 , 42 , }
+small_flight {673 , 2421 , 43 , }
+small_flight {673 , 2421 , 44 , }
+small_flight {673 , 2421 , 45 , }
+small_flight {673 , 2421 , 46 , }
+small_flight {673 , 2421 , 47 , }
+small_flight {673 , 2421 , 48 , }
+small_flight {673 , 2421 , 49 , }
+----------
+----------
+branch 1
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , -1 , }
+small_flight {0 , 2154 , 0 , }
+----------
+{ 0, 2154,  }
+----------
+{ 0, 2154,  }
+branch 1
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , 0 , }
+small_flight {0 , 0 , 0 , }
+----------
+----------
+branch 1
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 2011 , }
+small_flight {0 , 2011 , 1 , }
+small_flight {0 , 2011 , 1 , }
+----------
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+----------
+branch 2
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , 0 , }
+small_flight {0 , 0 , 1 , }
+small_flight {0 , 0 , 1 , }
+----------
+----------
+branch 1
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , 0 , }
+small_flight {0 , 0 , 0 , }
+small_flight {0 , 0 , 1 , }
+small_flight {0 , 0 , 1 , }
+----------
+----------
+branch 1
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , 0 , }
+small_flight {0 , 0 , 1 , }
+small_flight {0 , 0 , 1 , }
+----------
+----------
+branch 1
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , 0 , }
+----------
+----------
+branch 1
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , -1 , }
+small_flight {0 , 2011 , 0 , }
+----------
+{ 0, 2011,  }
+----------
+branch 2
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , 0 , }
+small_flight {0 , 0 , 1 , }
+small_flight {0 , 0 , 0 , }
+small_flight {0 , 0 , 1 , }
+----------
+----------
+branch 1
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , 0 , }
+small_flight {0 , 0 , 1 , }
+----------
+----------
+branch 1
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , 0 , }
+small_flight {0 , 0 , 1 , }
+----------
+----------
+branch 1
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , 0 , }
+small_flight {0 , 0 , 0 , }
+small_flight {0 , 0 , 0 , }
+small_flight {0 , 0 , 0 , }
+----------
+----------
+branch 1
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , 0 , }
+small_flight {0 , 0 , 0 , }
+small_flight {0 , 0 , 0 , }
+----------
+----------
+branch 1
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , 0 , }
+small_flight {0 , 0 , 1 , }
+small_flight {0 , 0 , 0 , }
+----------
+----------
+branch 1
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , 0 , }
+small_flight {0 , 0 , 0 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , 0 , }
+----------
+----------
+branch 1
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , 0 , }
+small_flight {0 , 0 , 0 , }
+small_flight {0 , 0 , 1 , }
+----------
+----------
+branch 1
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , 0 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , 0 , }
+small_flight {0 , 0 , 0 , }
+----------
+----------
+branch 1
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 0 , }
+small_flight {0 , 2011 , 2011 , }
+small_flight {0 , 2011 , 1 , }
+----------
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+{ 0, 2011,  }
+----------
+branch 2
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , -1 , }
+small_flight {0 , 0 , 0 , }
+small_flight {0 , 0 , 0 , }
+small_flight {0 , 0 , 0 , }
+small_flight {0 , 0 , 1 , }
+----------
+----------
+branch 1
+Rerunning tests
+[inputs1]
+[inputs2]
+[inputs5]
+[inputs13]
+[inputs14]
+[inputs15]
+[inputs12]
+[inputs4]
+[inputs3]
+[inputs19]
+[inputs6]
+[inputs8]
+[inputs17]
+[inputs10]
+[inputs11]
+[inputs16]
+[inputs9]
+[inputs20]
+[inputs7]
+[inputs18]
+
+
+*********************************************************************************************
+To see detailed coverage information open the file catg_tmp/coverage/index.html in a browser.
+*********************************************************************************************
+
