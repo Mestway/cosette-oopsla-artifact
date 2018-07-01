@@ -1,0 +1,132 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="chrome=1">
+  <title>Cosette</title>
+
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="css/github-light.css">
+  <meta name="viewport" content="width=device-width">
+</head>
+<body>
+  <div class="wrapper">
+    <header>
+      <h1>Speeding up Symbolic Reasoning for Relational Queries</h1>
+      <h3 class="subtitle">Chenglong Wang, Alvin Cheung, Ras Bodik </h3>
+      <p class="view" id="linktogithub"><a href="https://github.com/uwdb/Cosette/tree/meta-solver">View the Project on GitHub (uwdb/Cosette)</a></p>
+    </header>
+
+    <section>
+      <p>This page hosts the artifact for our OOPSLA 2018 paper, <a href="writeup/cosette-oopsla18-draft.pdf"><i>Speeding up Symbolic Reasoning for Relational Queries (draft)</i></a>.
+      </p>
+
+      <h2>Materials</h2>
+
+      <p>Our artifact <a class='small_link' href="scythe_artifact.tar.gz">[cosette_artifact.tar.gz]</a> contains the following materials: </p>
+
+      <ul> 
+        <li> <i>Benchmarks</i> of symbolic SQL reasoning tasks.</li>
+        <li> <i>Implementation of the algorithm</i> in Racket.</li>
+        <li> <i>Evaluation log and analysis scripts</i> used in our paper evaluation.</li>
+      </ul>
+
+      <h2>Prerequisite</h2>
+
+      <p>Our experiments run in Docker, instructions to install Docker can be found <a href="https://docs.docker.com/install/">here</a>.</p>
+
+      <h2>Overview</h2>
+
+      <p>
+        Our symbolic provenance analysis algorithm is implemented in Racket programming language using the Rosette symbolic virtual machine. The provenance analysis algorithm is integrated into <a href="http://cosette.cs.washington.edu/">Cosette</a>, an automated relational query reasoning tool, to speed up its symbolic reasoning performance. Our artifact also includes an reimplementation of Qex in Racket and two concolic test benchmarks implemented in Java using Janala2 framework.
+      </p>
+
+      <p>
+        In the following, we first present instructions to reproduce our experiments described in the paper (Section 6) and then show how to use the tool for new tasks.
+      </p>
+
+      <h2>Experiment 1 & 2</h2>
+
+      <p> The fist two experiments (Section 6.1, 6.2) involve evaluating symbolic SQL reasoning tasks (bounded verification and test data generation, respectively) against Cosette and Qex with and without space refinement and comparing performance difference.
+      </p>
+
+      <h3>Benchmarks</h3>
+
+      <p>Benchmarks for experiment 1 are placed in the directly <code>benchmarks/calcite</code>, consisting of 46 bounded verification tasks collected from <a href="https://calcite.apache.org/">Apache Calcite</a>.</p>
+
+      <p>Benchmarks for experiment 2 are placed in the directories <code>benchmarks/cex</code> and <code>benchmarks/cex</code>, the former contains 13 student homework submissions, and the latter contains 2 unit test generation tasks.</p>
+      
+      <h3>Instructions</h3>
+
+      <h5>Running Evaluation</h5>
+
+      <p>To run the symbolic reasoning tool on a dataset, first create a directory <code>LOG_DIR</code> to store evaluation logs and run the script <code>run_evaluation.py</code>:</p>
+
+      <pre>>> mkdir LOG_DIR
+>> python3 run_evaluation.py --dataset DATASET --output-root LOG_DIR</pre>
+
+      <p>The argument <code>DATASET</code> can be one of <code>calcite</code> (for experiment 1), <code>cex</code> or <code>qex</code> (for experiment 2).</p>
+
+      <p>When the command is issued, the artifact would run the following 4 tasks in sequence for each benchmark stored in the <code>benchmark/DATASET</code> folder. The four tasks differs by the symbolic reasoning encoding methods and whether space refinement is applied:</p>
+
+      <ul> 
+        <li> Cosette Encoding with space refinement. </li>
+        <li> Cosette Encoding without space refinement. </li>
+        <li> Qex Encoding with space refinement. </li>
+        <li> Qex Encoding without space refinement. </li>
+      </ul>
+
+      <p>When evaluation finished, we are expected to see 4 directories (named <code>DATASET-symbreak</code>, <code>DATASET-symbreak</code>, <code>DATASET-symbreak</code> and <code>DATASET-symbreak</code>) created under <code>LOG_DIR</code>. Each sub directory contains logs for each task listed above. Each file logs the following information of the benchmark: provenance constraints, query sizes, whether the queries contain aggregations, and the time spent in traversing the bounded search space and the generated test table (if it is a test data generation task).</p>
+
+      <h5>Analyzing Logs</h5>
+
+      <p>After obtaining evaluation logs, we can run the script <code>run_log_analysis.py</code> to obtain final evaluation results reported in the paper (Table 1 and Table 2 in Section 6). </p>
+
+      <p>Table 1 can be created from the following two commands, where the argument <code>LOG_DIR</code> should be the same <code>LOG_DIR</code> used in running the evaluation script. The first command creates the first half of Table 1 by only including cases containing aggregations and the second completes the remaining table.</p>
+
+      <pre>>> python3 run_log_analysis.py --dataset calcite --log-root LOG_DIR --exclude-noaggr
+>> python3 run_log_analysis.py --dataset calcite --log-root LOG_DIR --exclude-aggr</pre>
+  
+      <p>Similarly, Table 2 can be created from the following two commands.</p>
+    
+      <pre>>> python3 run_log_analysis.py --dataset cex --log-root LOG_DIR
+>> python3 run_log_analysis.py --dataset qex --log-root LOG_DIR</pre>
+
+      <h3>Remarks</h3>
+
+      <p>The exact numbers in the result table may be different from ones reported in the paper due to the running platform difference, especially the solving time for cases that finished within less than 1 second. However, the speedups in the result table should be consistent with those reported in the paper.</p>
+
+      <p>We also provide raw logs generated during our evaluation in the <code>eval_output</code> directory. We can run the analysis script to obtain the tables in the paper using the command shown in the last subsection, by setting <code>LOG_DIR</code> to <code>eval_output</code>.  </p>
+
+      <h2>Experiment 3</h2>
+
+      <p> The third experiment (Section 6.3) evaluates the space refinement algorithm on two concolic execution benchmarks implemented in Janala 2 concolic execution engine.
+      </p>
+
+      <h3>Benchmarks</h3>
+
+      <p>The benchmarks for experiment 3 are placed in <code>concolic/janala2/src/integration/java/custom</code>. <code>EquivTest1a.java</code> and <code>EquivTest1b.java</code> corresponds to q1 and q2 described in Section 6.3 in the paper, and <code>EquivTest2a.java</code>/<code>EquivTest2b.java</code> corresponds to q3 and q4 in the same section.</p>
+      
+      <h3>Instructions</h3>
+
+      Use the following command to run concolic testing on the two benchmarks above and collect their timing information:
+
+      <pre>>> sh run_test.sh > time.log</pre>
+
+      To obtain the data used to plot Figure 11 in the paper, use the command:
+
+      <pre>>> python3 process.py</pre>
+
+      We can then use Vega-Lite to visualize the analysis result.
+
+      <h2>Use the Artifact Beyond </h2>
+
+      <p>We would like to receive suggestions from you about further improving the artifact. Feel free to drop us a line.</p>
+
+      <h2>Contact</h2>
+
+      <p>We would like to receive suggestions from you about further improving the artifact. Feel free to drop us a line.</p>
+    </section>
+  </div>
+</body>
+</html>

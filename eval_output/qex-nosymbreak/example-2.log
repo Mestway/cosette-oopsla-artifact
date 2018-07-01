@@ -1,0 +1,22 @@
+[[config]] symbreak:#f, qex-encoding:#f
+[inference time] 2
+[constraint]
+O,
+ForallEQ[#t]
+C,
+ForallEQ[((r[0] = @0))]
+
+[query size] 4
+[query aggr] #t
+--------------------
+[table size] (0 1 1) [real time] 23 ms
+[table size] (0 2 1) [real time] 15 ms
+[Evaluation Result]
+  ()
+  #(struct:Table dummy (dummy dummy) (((-8 462) . 1)))
+[NEQ]
+[table size] (0 2 2) [real time] 461 ms
+(#(struct:Table P (id name price) ())
+ #(struct:Table O (order_id customer_id) (((-8 -8) . 21)))
+ #(struct:Table C (customer_id name) (((-8 0) . 22))))
+
