@@ -10,7 +10,17 @@ RUN apt-get update && \
 
 RUN raco pkg install rosette
 
-RUN apt-get install -y python3-pip python3-dev \
-        && cd /usr/local/bin \
-        && ln -s /usr/bin/python3 python \
-        && pip3 install --upgrade pip
+RUN apt-get update
+RUN apt-get install -y software-properties-common vim unzip
+RUN add-apt-repository ppa:jonathonf/python-3.6
+RUN apt-get update
+
+RUN apt-get install -y build-essential python3.6 python3.6-dev python3-pip python3.6-venv
+RUN apt-get install -y git
+
+# update pip
+RUN python3.6 -m pip install pip --upgrade
+
+RUN add-apt-repository ppa:openjdk-r/ppa  
+RUN apt-get update   
+RUN apt-get install -y openjdk-8-jdk  

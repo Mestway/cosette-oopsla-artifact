@@ -12,7 +12,7 @@ def calculate_table_size(input_dir):
     for fname in os.listdir(input_dir):
         if fname.endswith('.rkt') and (not fname.startswith("__")):
             case_name = fname.split(".")[0]
-            with open(os.path.join(input_dir, fname), "r") as f:
+            with open(os.path.join(input_dir, fname), "r", errors='replace') as f:
                 lines = [l for l in f.readlines() if "table-info" in l]
                  
                 table_size = []
@@ -37,7 +37,7 @@ def parse_outputs(log_dirs, table_size_dict={}, return_all=False):
             #print(case_name)
             #print(table_size_dict[case_name])
             case_result = []
-            with open(os.path.join(log_dir, fname), encoding='utf-8') as f: 
+            with open(os.path.join(log_dir, fname), encoding='utf-8', errors='replace') as f: 
                 lines = [l.strip() for l in f.readlines() if "[table size]" in l]
                 for l in lines:
                     
@@ -105,7 +105,7 @@ def read_stats(folder, table_size_dict):
         #print(fname)
         case_name = fname.split(".")[0]
         full_schema_size = table_size_dict[case_name]
-        with open(os.path.join(folder,fname), "r") as f:
+        with open(os.path.join(folder,fname), "r", errors='replace') as f:
             lines = f.readlines()
             aggr = False
             for l in lines:

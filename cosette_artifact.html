@@ -35,6 +35,14 @@
 
       <p>Our experiments run in Docker, instructions to install Docker can be found <a href="https://docs.docker.com/install/">here</a>.</p>
 
+      <p>After the docker is install, run the following command to create and enter the Docker container that would be used for artifat evaluation.</p>
+
+      <pre>>> ./init_docker.sh</pre>
+
+      <p>Once in the docker, run the following command to install python requirements.</p>
+
+      <pre>>> python3.6 -m pip install -r Requirements</pre>
+
       <h2>Overview</h2>
 
       <p>
@@ -63,7 +71,7 @@
       <p>To run the symbolic reasoning tool on a dataset, first create a directory <code>LOG_DIR</code> to store evaluation logs and run the script <code>run_evaluation.py</code>:</p>
 
       <pre>>> mkdir LOG_DIR
->> python3 run_evaluation.py --dataset DATASET --output-root LOG_DIR</pre>
+>> python3.6 run_evaluation.py --dataset DATASET --output-root LOG_DIR</pre>
 
       <p>The argument <code>DATASET</code> can be one of <code>calcite</code> (for experiment 1), <code>cex</code> or <code>qex</code> (for experiment 2).</p>
 
@@ -84,13 +92,13 @@
 
       <p>Table 1 can be created from the following two commands, where the argument <code>LOG_DIR</code> should be the same <code>LOG_DIR</code> used in running the evaluation script. The first command creates the first half of Table 1 by only including cases containing aggregations and the second completes the remaining table.</p>
 
-      <pre>>> python3 run_log_analysis.py --dataset calcite --log-root LOG_DIR --exclude-noaggr
->> python3 run_log_analysis.py --dataset calcite --log-root LOG_DIR --exclude-aggr</pre>
+      <pre>>> python3.6 run_log_analysis.py --dataset calcite --log-root LOG_DIR --exclude-noaggr
+>> python3.6 run_log_analysis.py --dataset calcite --log-root LOG_DIR --exclude-aggr</pre>
   
       <p>Similarly, Table 2 can be created from the following two commands.</p>
     
-      <pre>>> python3 run_log_analysis.py --dataset cex --log-root LOG_DIR
->> python3 run_log_analysis.py --dataset qex --log-root LOG_DIR</pre>
+      <pre>>> python3.6 run_log_analysis.py --dataset cex --log-root LOG_DIR
+>> python3.6 run_log_analysis.py --dataset qex --log-root LOG_DIR</pre>
 
       <h3>Remarks</h3>
 
@@ -100,8 +108,15 @@
 
       <h2>Experiment 3</h2>
 
-      <p> The third experiment (Section 6.3) evaluates the space refinement algorithm on two concolic execution benchmarks implemented in Janala 2 concolic execution engine.
+      <p> The third experiment (Section 6.3) evaluates the space refinement algorithm on two concolic execution benchmarks implemented in Janala 2 concolic execution engine. To initialize the environment of the experiment, run the following commands from the root directory.
       </p>
+
+            <pre>cd concolic
+export PATH="/cosette-artifact/concolic:$PATH"
+mkdir /opt/gradle
+unzip -d /opt/gradle gradle-4.8.1-bin.zip
+export PATH=$PATH:/opt/gradle/gradle-4.6/bin
+source ~/.bashrc</pre>
 
       <h3>Benchmarks</h3>
 
@@ -109,15 +124,15 @@
       
       <h3>Instructions</h3>
 
-      Use the following command to run concolic testing on the two benchmarks above and collect their timing information:
+      <p>Use the following command to run concolic testing on the two benchmarks above and collect their timing information. Note that the stdout may report error message <code>Error: inputs (No such file or directory)</code>, this doesn't influence the evaluation result (this error message relates to  features in Janala2 that are not used in this experiment).</p>
 
-      <pre>>> sh run_test.sh > time.log</pre>
+      <pre>>> bash run_test.sh > time.txt</pre>
 
-      To obtain the data used to plot Figure 11 in the paper, use the command:
+      <p>To obtain the data used to plot Figure 11 in the paper, use the command:</p>
 
-      <pre>>> python3 process.py</pre>
+      <pre>>> python3.6 process.py</pre>
 
-      We can then use Vega-Lite to visualize the analysis result.
+      <p>We can then use Vega-Lite to visualize the analysis result.</p>
 
       <h2>Use the Artifact Beyond </h2>
 
