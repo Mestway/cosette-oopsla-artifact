@@ -1,4 +1,5 @@
-{ echo "[start_symbol]" } 2>> time.txt
+touch time.txt
+rm time.txt
 
 >&2 echo "start"
 >&2 echo "equiv1a"
