@@ -37,11 +37,11 @@
 
       <p>After the docker is install, run the following command to create and enter the Docker container that would be used for artifat evaluation.</p>
 
-      <pre>>> ./init_docker.sh</pre>
+      <pre>./init_docker.sh</pre>
 
       <p>Once in the docker, run the following command to install python requirements.</p>
 
-      <pre>>> python3.6 -m pip install -r Requirements</pre>
+      <pre>python3.6 -m pip install -r Requirements</pre>
 
       <h2>Overview</h2>
 
@@ -70,8 +70,9 @@
 
       <p>To run the symbolic reasoning tool on a dataset, first create a directory <code>LOG_DIR</code> to store evaluation logs and run the script <code>run_evaluation.py</code>:</p>
 
-      <pre>>> mkdir LOG_DIR
->> python3.6 run_evaluation.py --dataset DATASET --output-root LOG_DIR</pre>
+      <pre>
+mkdir LOG_DIR
+python3.6 run_evaluation.py --dataset DATASET --output-root LOG_DIR</pre>
 
       <p>The argument <code>DATASET</code> can be one of <code>calcite</code> (for experiment 1), <code>cex</code> or <code>qex</code> (for experiment 2).</p>
 
@@ -92,13 +93,13 @@
 
       <p>Table 1 can be created from the following two commands, where the argument <code>LOG_DIR</code> should be the same <code>LOG_DIR</code> used in running the evaluation script. The first command creates the first half of Table 1 by only including cases containing aggregations and the second completes the remaining table.</p>
 
-      <pre>>> python3.6 run_log_analysis.py --dataset calcite --log-root LOG_DIR --exclude-noaggr
->> python3.6 run_log_analysis.py --dataset calcite --log-root LOG_DIR --exclude-aggr</pre>
+      <pre>python3.6 run_log_analysis.py --dataset calcite --log-root LOG_DIR --exclude-noaggr
+python3.6 run_log_analysis.py --dataset calcite --log-root LOG_DIR --exclude-aggr</pre>
   
       <p>Similarly, Table 2 can be created from the following two commands.</p>
     
-      <pre>>> python3.6 run_log_analysis.py --dataset cex --log-root LOG_DIR
->> python3.6 run_log_analysis.py --dataset qex --log-root LOG_DIR</pre>
+      <pre>python3.6 run_log_analysis.py --dataset cex --log-root LOG_DIR
+python3.6 run_log_analysis.py --dataset qex --log-root LOG_DIR</pre>
 
       <h3>Remarks</h3>
 
@@ -126,11 +127,11 @@ source ~/.bashrc</pre>
 
       <p>Use the following command to run concolic testing on the two benchmarks above and collect their timing information. Note that the stdout may report error message <code>Error: inputs (No such file or directory)</code>, this doesn't influence the evaluation result (this error message relates to  features in Janala2 that are not used in this experiment).</p>
 
-      <pre>>> ./run_test.sh</pre>
+      <pre>./run_test.sh</pre>
 
-      <p>To obtain the data used to plot Figure 11 in the paper, use the command:</p>
+      <p>Running this command would generate a log file named <code>time.txt</code> in the directory. To process the log file and create log, use the command:</p>
 
-      <pre>>> python3.6 process.py time.txt</pre>
+      <pre>python3.6 process.py time.txt</pre>
 
       <p>This command would analyze the log and generate the plotting spec that can be visualized through <a href="https://vega.github.io/editor/#/custom/vega-lite">Vega-Lite editor</a>. Note that the output from <code>process.py</code> would be of the following format:</p>
 
@@ -144,13 +145,11 @@ source ~/.bashrc</pre>
 {"$schema": ...
       </pre>
 
-      <p>To create the visualization figure, we can copy the json string (one at a time) to the Vega-Lite online editor. This would generate the plot presented in Figure 11. </p>
+      <p>To create the visualization figure, we can copy the json string (one at a time) to the Vega-Lite online editor. This would generate the two plots shown in Figure 11. </p>
 
       <h3>Remarks</h3>
 
       <p>Note that our experiment in the paper was run on a AMD Ryzen 7 1800X 8 core Processor. If running on a different processor, the absolute time spent in solving each benchmark may vary (we observed a 3x slow down when the experiments are run on Intel Core i5 4 core processor). However, the relative speedup should be consistent with Figure 11, even when running on a different processer.</p>
-
-      <p>Furthermore, since <code>janala2</code> creates multiple processes during concolic execution, we measure the real time spent by the computer during the whole computation process  </p>
 
       <h2>Use the Artifact Beyond </h2>
 
