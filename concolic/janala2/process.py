@@ -7,7 +7,7 @@ vl_spec = {
   "data": {"values": None},
   "mark": "line",
   "encoding": {
-    "x": {"field": "table_size (#tuples)", "type": "quantitative"},
+    "x": {"field": "table_size (#tuples)", "type": "ordinal"},
     "y": {"field": "time", "type": "quantitative"},
     "color": {"field": "Refinement?", "type": "nominal"}
   }
