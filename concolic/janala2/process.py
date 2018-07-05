@@ -2,13 +2,6 @@ import os
 import sys
 import json
 
-eq1a = []
-eq1b = []
-eq2a = []
-eq2b = []
-
-entries = []
-
 vl_spec = {
   "$schema": "https://vega.github.io/schema/vega-lite/v2.json",
   "data": {"values": None},
@@ -26,21 +19,27 @@ if __name__ == '__main__':
 
     with open(datafile) as f:
         lines = f.readlines()
-        current = []
+        entries = []
         for l in lines:
-            if len(current) == 10:
-                entries.append(current)
-                current = []
-            if l.startswith("real"):
+            if l.startswith("user"):
                 t_str = l[4:].strip()
-                minute = float(t_str[0])
-                sec = float(t_str[2:-1])
-                current.append(round(minute * 60 + sec, 2))
+                minute = float(t_str.split("m")[0])
+                sec = float(t_str.split("m")[1].split("s")[0])
+                current = round(minute * 60 + sec, 2)
+                #entries.append(round(minute * 60 + sec, 2))
+            if l.startswith("sys"):
+                t_str = l[3:].strip()
+                minute = float(t_str.split("m")[0])
+                sec = float(t_str.split("m")[1].split("s")[0])
+                current += round(minute * 60 + sec, 2)
+                entries.append(current)
 
-        eq1a = entries[0]
-        eq1b = entries[1]
-        eq2a = entries[2]
-        eq2b = entries[3]
+        eq1a = entries[0:10]
+        eq1b = entries[10:20]
+        eq2a = entries[20:30]
+        eq2b = entries[30:40]
+
+        print(eq1a)
 
         eq1_str =  ",\n".join(["{{ \"table_size (#tuples)\" : {}, \"time\": {}, \"Refinement?\" : \"true\" }}".format((i + 1) * 10 , eq1a[i]) for i in range(len(eq1a))])
         eq1_str += ",\n" + ",\n".join(["{{ \"table_size (#tuples)\" : {}, \"time\": {}, \"Refinement?\" : \"false\" }}".format((i + 1) * 10 , eq1b[i]) for i in range(len(eq1b))])
